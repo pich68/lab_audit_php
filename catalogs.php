@@ -1,0 +1,1 @@
+<?php $catalogs = array("DSE", "DCTM", "BASE", "CAPTIVA"); ?>
